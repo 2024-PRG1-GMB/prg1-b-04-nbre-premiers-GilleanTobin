@@ -29,10 +29,9 @@ int main() {
                     break;
                 }
             }
-
-            // Affichage
+            
             if (prime) {
-                std::cout  << tested_value << std::setw(spacing);
+                std::cout << std::setw(spacing) << tested_value ;
                 if (column < 4) {
                     column++;
                 } else {
@@ -42,7 +41,9 @@ int main() {
             }
         }
 
+
         std::cout << std::endl;
+
 
         while(true) {
             char restart_choice = ' ';
