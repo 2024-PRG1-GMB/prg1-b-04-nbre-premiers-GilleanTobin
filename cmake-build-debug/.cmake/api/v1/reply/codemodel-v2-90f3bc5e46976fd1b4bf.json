@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "prg1_b_04_nbre_premiers_GilleanTobin",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "prg1_b_04_nbre_premiers_GilleanTobin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prg1_b_04_nbre_premiers_GilleanTobin-Debug-9f89f12de3d2ca1bc5c7.json",
+					"name" : "prg1_b_04_nbre_premiers_GilleanTobin",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Julie/Documents/Cerveau central/.obsidian/HEIG/Semestre 1.1/PRG1/Labos/prg1-b-04-nbre-premiers-GilleanTobin/cmake-build-debug",
+		"source" : "C:/Users/Julie/Documents/Cerveau central/.obsidian/HEIG/Semestre 1.1/PRG1/Labos/prg1-b-04-nbre-premiers-GilleanTobin"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
